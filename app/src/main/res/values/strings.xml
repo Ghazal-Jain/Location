@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Location</string>
+    <string name="label_currentLocation"> CURRENT LOCATION</string>
+    <string name="label_longitude"> Longitude:     %1$f °</string>
+    <string name="label_latitude"> Latitude:     %1$f °</string>
+    <string name="label_altitude"> Altitude:     %1$.2f m</string>
+    <string name="label_light"> Light: %1$.2f lx </string>
+    <string name="label_address"> Address:    \n%1$s </string>
+    <string name="label_previousLocations"> PREVIOUS LOCATIONS</string>
+    <string name="label_locations"> (placeholder) </string>
+    <string name="error_no_sensor">No sensor</string>
+    <string name="label_convert">Convert -> Text</string>
+</resources>
